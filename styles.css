@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Plus Jakarta";
+  src: url(./assets/fonts/PlusJakartaSans-VariableFont_wght.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 16px 20px;
+  font-family: "Plus Jakarta";
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
